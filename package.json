@@ -6,7 +6,8 @@
     "craco",
     "JSON Schema",
     "reference",
-    "dereference"
+    "dereference",
+    "create-react-app"
   ],
   "homepage": "https://github.com/jackwilsdon/craco-json-schema-dereferencer",
   "bugs": "https://github.com/jackwilsdon/craco-json-schema-dereferencer/issues",
