@@ -16,5 +16,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jackwilsdon/craco-json-schema-dereferencer.git"
+  },
+  "dependencies": {
+    "@cloudflare/json-hyper-schema": "0.1.1",
+    "@cloudflare/json-schema-ref-loader": "0.1.2",
+    "@cloudflare/json-schema-transform": "0.1.1"
   }
 }
