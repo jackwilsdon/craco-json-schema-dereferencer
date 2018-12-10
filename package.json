@@ -1,0 +1,20 @@
+{
+  "name": "@jackwilsdon/craco-json-schema-dereferencer",
+  "version": "1.0.0",
+  "description": "craco plugin for JSON Schema dereferencing in create-react-app 2",
+  "keywords": [
+    "craco",
+    "JSON Schema",
+    "reference",
+    "dereference"
+  ],
+  "homepage": "https://github.com/jackwilsdon/craco-json-schema-dereferencer",
+  "bugs": "https://github.com/jackwilsdon/craco-json-schema-dereferencer/issues",
+  "license": "MIT",
+  "author": "Jack Wilsdon <jack.wilsdon@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackwilsdon/craco-json-schema-dereferencer.git"
+  }
+}
