@@ -1,6 +1,6 @@
 {
   "name": "@jackwilsdon/craco-json-schema-dereferencer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "craco plugin for JSON Schema dereferencing in create-react-app 2",
   "keywords": [
     "craco",
